@@ -1,4 +1,4 @@
-module github.com/sanyukt/SanyuktAuthUtils
+module github.com/harishkokcha91/SanyuktAuthUtils
 
 go 1.23.0
 
